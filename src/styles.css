@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* background-color: grey; */
+  /* color: aliceblue; */
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
